@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-i2vr7v.jambul126.xyz/sitemap.xml
